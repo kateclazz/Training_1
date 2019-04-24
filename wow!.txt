@@ -1,1 +1,3 @@
-This is amazing... this is cloned.
+This is not so amazing... this is cloned.
+
+I now know how to use git.
